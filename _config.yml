@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   optimized for size and lookup speed - internals, use cases, thougths.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'keyvidev.github.io'
+url: 'https://keyvidev.github.io'
 
 github:
   username: keyviDev             # change to your github username
